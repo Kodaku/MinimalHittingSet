@@ -8,3 +8,4 @@ Organizzazione File:
 3. other data: altri file con dati utili per svolgere ulteriore data analysis
 4. File .ipynb: Notebook con l'algoritmo
 5. File .pdf: Relazione
+6. benchmarks_1_remastered: Una prova svolta cercando di migliorare MBase ma fallita
